@@ -1,0 +1,9 @@
+{
+  "sunucular": [
+    {
+      "isim": "Örnek CS 1.6 Sunucusu",
+      "ip": "example.com",
+      "port": 27015
+    }
+  ]
+}
